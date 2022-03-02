@@ -1,0 +1,25 @@
+
+.titulo {
+    font-family: arial;
+    font-size: 24px;
+    color: black;
+        }
+
+.subtitulo {
+    font-style: oblique;
+}
+
+
+body {
+    background-color: #f3f4f5;
+}
+
+.texto {
+    font-family: georgia;
+    font-size: 18px;
+    color: #757575;
+}
+.imagen{
+   width:600px;
+    height:300px;
+}
